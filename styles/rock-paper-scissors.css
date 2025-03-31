@@ -1,0 +1,72 @@
+
+.heading{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif ;
+    font-weight: bold;
+    font-size: 45px;
+}
+
+.scoree{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif ;
+    font-size: 20px;
+}
+
+.result{
+    margin-top: 50px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif ;
+    font-weight: bold;
+    font-size: 20px;
+    margin-bottom: 50px;
+}
+
+.res-img{
+    height: 40px;
+}
+
+.instruction{
+    margin-top: -10px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small;
+}
+
+
+body{
+    background-color: black;
+}
+
+.btn{
+    cursor: pointer;
+    margin-top: 30px;
+    background: transparent;
+    border-radius: 25px;
+    margin-left: 10px;
+    padding: 10px;
+}
+
+.btn:hover{
+    background-color: grey;
+}
+
+.img{
+    height: 60px;
+}
+
+.reset{
+    color: black;
+    padding: 4px;
+    background-color: white;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+.auto{
+    color: black;
+    padding: 5px;
+    background-color: white;
+    cursor: pointer;
+    border-radius: 5px;
+    margin-left: 75px;
+}
